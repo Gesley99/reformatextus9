@@ -126,7 +126,7 @@ const About = () => {
             </p>
           </div>
           <div className="lg:w-1/2 flex justify-center">
-            <img src="/images/copyspidersite.png" alt="Sistema Anti-plágio CopySpider - Celular e Notebook" className="max-w-full h-auto" />
+            <img src="/images/copyspider%20site.png" alt="Sistema Anti-plágio CopySpider - Celular e Notebook" className="max-w-full h-auto" />
           </div>
         </div>
 
